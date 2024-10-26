@@ -1,1 +1,2 @@
-# HSU_Dataset
+# RCJ Mazeのデータセット
+ご自由に使ってください
